@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TuGestor/static/css/main.7acaea2f.css",
-    "main.js": "/TuGestor/static/js/main.49eeb979.js",
+    "main.js": "/TuGestor/static/js/main.361878d1.js",
     "static/js/737.c14624a6.chunk.js": "/TuGestor/static/js/737.c14624a6.chunk.js",
     "static/js/177.01610ebf.chunk.js": "/TuGestor/static/js/177.01610ebf.chunk.js",
     "static/js/302.c269f7b1.chunk.js": "/TuGestor/static/js/302.c269f7b1.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/logo.svg": "/TuGestor/static/media/logo.f17c99d86ad36b193c19a874d39863c7.svg",
     "index.html": "/TuGestor/index.html",
     "main.7acaea2f.css.map": "/TuGestor/static/css/main.7acaea2f.css.map",
-    "main.49eeb979.js.map": "/TuGestor/static/js/main.49eeb979.js.map",
+    "main.361878d1.js.map": "/TuGestor/static/js/main.361878d1.js.map",
     "737.c14624a6.chunk.js.map": "/TuGestor/static/js/737.c14624a6.chunk.js.map",
     "177.01610ebf.chunk.js.map": "/TuGestor/static/js/177.01610ebf.chunk.js.map",
     "302.c269f7b1.chunk.js.map": "/TuGestor/static/js/302.c269f7b1.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.49eeb979.js"
+    "static/js/main.361878d1.js"
   ]
 }
