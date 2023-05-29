@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/205.4f5033a1.chunk.js","mappings":"2JAGA,UAHc,WACZ,OAAO,yBAAK,SACb,C","sources":["components/Renta.jsx"],"sourcesContent":["const Renta = () => {\n  return <div>RENTA</div>;\n};\nexport default Renta;\n"],"names":[],"sourceRoot":""}

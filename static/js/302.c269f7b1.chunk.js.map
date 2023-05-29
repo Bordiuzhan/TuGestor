@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/302.c269f7b1.chunk.js","mappings":"2JAGA,UAHgB,WACd,OAAO,yBAAK,WACb,C","sources":["components/Factura.jsx"],"sourcesContent":["const Factura = () => {\n  return <div>FACTURA</div>;\n};\nexport default Factura;\n"],"names":[],"sourceRoot":""}
