@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import bgImg1440 from '../assets/desk-593327_1920.jpg';
-import { NavLink } from 'react-router-dom';
+
 
 export const WelcomWrapper = styled.section`
   width: 100%;

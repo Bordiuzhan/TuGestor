@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import { Btn, Text, Title, WelcomWrapper } from './WelcomePage.styled';
+import { Text, Title, WelcomWrapper } from './WelcomePage.styled';
 
 export default function WelcomePage() {
   return (
